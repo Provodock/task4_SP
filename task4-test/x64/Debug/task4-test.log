@@ -1,0 +1,5 @@
+﻿  test.cpp
+D:\Code\kursov\task4-test\stringProcessor.h(12,34): warning C4114: same type qualifier used more than once
+  (compiling source file '/test.cpp')
+  
+  task4-test.vcxproj -> D:\Code\kursov\task4-test\x64\Debug\task4-test.exe

@@ -1,0 +1,3 @@
+D:\Code\kursov\task4-test\x64\Debug\gtest.pdb
+D:\Code\kursov\task4-test\x64\Debug\gtest_main.pdb
+D:\Code\kursov\task4-test\task4-test\x64\Debug\task4-te.98FF9BC8.Up2Date
